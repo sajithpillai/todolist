@@ -1,0 +1,21 @@
+.mydiv
+{
+    width: 50%;
+    height: 100px;
+    background-color: blue;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+        
+}
+p
+{
+    background-color: brown;
+    color: cadetblue;
+    padding: 30px;
+}
+.mydiv2
+{
+    background-color: coral;width: 20%;height: 50px;position: absolute;top: 50%;bottom: 20%;left: 40%;right: 40%;
+}
